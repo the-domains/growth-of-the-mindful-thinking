@@ -1,0 +1,28 @@
+name: Growth of the mindful thinking
+favicon: null
+layout_spectrum: 0.096906814025715
+typography_spectrum: 0.25763324555009604
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.08465193398296833
+  lightness: 0.13914951542392373
+  saturation: 0.8057987226638943
+  rhythmicContrast: 0.36225688946433365
+purpose: []
